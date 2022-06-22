@@ -1,0 +1,6 @@
+Dodatkowe funkcjonalności:
+
+- rejestracja użytkowników (zostaje utworzony użytkownik zarówno w bazie danych jak i dodany do nowej tabeli),
+- utworzeniu użytkownicy dostają prawo do wyświetlania, modyfikowania i usuwania danych z tabeli,
+- logowanie (na podstawie tego czy taki użytkownik powstał), 
+- wyszukiwanie produktów na stronie. 
